@@ -9,7 +9,7 @@ order: 4
 - [GMO CyberSecurity By IERAE](https://gmo-cybersecurity.com/): (2021/07 ~ 2022/07)
 - [CyberAgent](https://www.cyberagent.co.jp/): (2022/01 ~ 2022/03)
 - [Wantedly](https://wantedlyinc.com/): (2022/08 3weeks)
-- [Pixiv](https://www.pixiv.co.jp/): (2022/08 8day)
+- [Pixiv](https://www.pixiv.co.jp/): (2022/08 8days)
 - [DMM.com](https://dmm-corp.com/company/): (2022/09 2weeks)
 - [Nikkei](https://www.nikkei.co.jp/nikkeiinfo): (2023/04 ~ now)
 - [Future](https://www.future.co.jp/): (2023/05 ~ now)
