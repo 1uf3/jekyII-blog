@@ -13,6 +13,8 @@ order: 4
 - [DMM.com](https://dmm-corp.com/company/): (2022/09 2weeks)
 - [Nikkei](https://www.nikkei.co.jp/nikkeiinfo): (2023/04 ~ now)
 - [Future](https://www.future.co.jp/): (2023/05 ~ now)
+- [FFRI](https://www.ffri.jp/): (2023/08 1week)
+- [NEC Security](https://www.nec-security.co.jp/): (2023/09 1week)
 
 # Qualifications
 
@@ -31,6 +33,6 @@ order: 4
 - [Mini Hardening Project](https://www.security-camp.or.jp/minicamp/): (#4.0, #4.5)
 - [Micro Hardening Project](https://twitter.com/MicroHardening): ('22)
 - [SecHack365](https://sechack365.nict.go.jp/): Expression Drive Driven Course Trainee('21)
-- [CODE BLUE](https://codeblue.jp/): Student Staff('22)
+- [CODE BLUE](https://codeblue.jp/): Student Staff('22, '23)
 
 {: .prompt-tip }
