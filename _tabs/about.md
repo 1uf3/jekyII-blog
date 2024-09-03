@@ -15,8 +15,8 @@ order: 4
 - [Future](https://www.future.co.jp/): (2023/05 ~ 2024/08)
 - [FFRI](https://www.ffri.jp/): (2023/08 1week)
 - [NEC Security](https://www.nec-security.co.jp/): (2023/09 1week)
-- [GMO ペパボ](https://pepabo.com/): (2024/08 2week)
-- [セコム株式会社 IS研究所](https://www.secom.co.jp/isl/): (2024/09 2week)
+- [GMO Pepabo](https://pepabo.com/): (2024/08 2week)
+- [SECOM Intelligent Systems Laboratory](https://www.secom.co.jp/isl/): (2024/09 2week)
 
 # Qualifications
 
@@ -28,9 +28,7 @@ order: 4
 - [Hardening 2021 Active Fault](https://wasforum.jp/2021/09/release-hardening-2021-active-fault/): 『一生デブオプす』
 
 # Papars
-- [VM 間 Rowhammer 類似攻撃に対する多重 Canary を用いた検出・隔離手法の提案](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202402218002733986): 優秀若手発表賞 受賞
-
-
+- [VM間Rowhammer類似攻撃に対する多重Canaryを用いた検出・隔離手法の提案](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202402218002733986): 優秀若手発表賞 受賞
 
 # Activities
 
