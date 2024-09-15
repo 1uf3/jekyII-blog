@@ -32,6 +32,7 @@ order: 4
 
 # Activities
 
+- [APsys 2024](https://apsys2024.github.io/): Student Volunteer
 - [Next Camp](https://www.ipa.go.jp/jinzai/camp/index.html): Tutor('24)
 - [Security Camp](https://www.ipa.go.jp/jinzai/camp/index.html): Attendee('20, '23), Tutor('21)
 - [Security Mini Camp](https://www.security-camp.or.jp/minicamp/): Tutor(Online '21)
